@@ -1,4 +1,31 @@
+html{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
 li{
   display: inline-block;
   list-style: none;
+}
+
+.logo{
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  display: inline-block;
+  width: 100%;
+  padding: 0.66rem 0rem;
+}
+
+.logo img{
+  display: inline-block;
+  height: 1.5rem;
+  padding-right: 1rem;
+  padding-left: 0.5rem;
+
+}
+
+.logo h2{
+  display: inline-block;
+  height: 1.5rem;
 }
