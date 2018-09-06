@@ -3,6 +3,10 @@ html{
   font-size: 18px;
 }
 
+body{
+  margin: 0;
+}
+
 li{
   display: inline-block;
   list-style: none;
@@ -15,6 +19,7 @@ li{
   display: inline-block;
   width: 100%;
   padding: 0.66rem 0rem;
+
 }
 
 .logo img{
