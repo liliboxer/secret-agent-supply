@@ -39,7 +39,7 @@ li{
   align-items: center;
 }
 
-
+/* NEW ARRIVAL */
 
 .new_arrival{
   height: 25rem;
@@ -48,7 +48,23 @@ li{
   background-position: center;
   background-size: cover;
   display: flex;
+}
+
+
+.block{
+  background-color: black;
+  color: white;
+  width: 20rem;
+  margin-top: 9rem;
+  display: flex;
   flex-direction: column;
+}
+
+.new_arrival h2{
+}
+
+.new_arrival h1{
+
 }
 
 .menu{
