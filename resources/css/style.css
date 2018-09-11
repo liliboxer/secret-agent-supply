@@ -13,12 +13,6 @@ body{
 }
 
 
-li{
-  display: inline-flex;
-  list-style: none;
-  justify-content: center;
-}
-
 
 /* HEADER */
 
@@ -51,7 +45,6 @@ li{
   display: flex;
 }
 
-
 .block{
   background-color: black;
   color: white;
@@ -78,9 +71,21 @@ li{
   margin-top: 0.25rem;
 }
 
-.menu{
+/* NAV */
+
+.red{
+  background-color: firebrick;
+  color: white;
+  padding: 0.75rem 0rem;
+}
+
+ul{
   display: flex;
-  align-content: center;
+  justify-content: space-between;
+}
+
+li{
+  list-style: none;
 }
 
 
