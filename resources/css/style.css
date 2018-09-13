@@ -110,7 +110,6 @@ li{
   max-width: 100%;
 }
 
-
 .featured h2{
   background-color: black;
   color: white;
@@ -120,6 +119,31 @@ li{
   justify-content: center;
 }
 
+/* LOCATION + HOURS */
+
+.info{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.box1{
+  display: flex;
+  justify-content: space-between;
+}
+
+.box2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.title{
+  display: flex;
+  background-color: black;
+  color: white;
+  margin-top: 3rem;
+  width: 35%;
+}
 
 
 /* FOOTER */
