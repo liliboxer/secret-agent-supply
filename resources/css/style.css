@@ -104,9 +104,10 @@ li{
 
 .featured img{
   height: 9rem;
-  padding: 2rem;
+  padding: 2rem 0;
   display: block;
   margin: 0 auto;
+  max-width: 100%;
 }
 
 
@@ -118,6 +119,8 @@ li{
   display: flex;
   justify-content: center;
 }
+
+
 
 /* FOOTER */
 
