@@ -127,14 +127,19 @@ li{
 
 }
 
-.box1{
+.infobox1{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.infobox2{
   display: flex;
   justify-content: space-between;
 }
 
-.box2{
-  display: flex;
-  justify-content: space-between;
+.header{
+  width: 35%;
 }
 
 .title{
@@ -142,7 +147,9 @@ li{
   background-color: black;
   color: white;
   margin-top: 3rem;
-  width: 35%;
+  padding: 1rem 0 1rem 2rem;
+
+
 }
 
 
