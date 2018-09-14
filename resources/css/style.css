@@ -124,6 +124,7 @@ li{
 .info{
   display: flex;
   justify-content: space-between;
+  padding: 3rem 0 4rem 0;
 }
 
 .info_left, .info_right{
