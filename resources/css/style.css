@@ -123,22 +123,10 @@ li{
 
 .info{
   display: flex;
-  flex-direction: column;
-
-}
-
-.infobox1{
-  display: flex;
-  justify-content: space-between;
-
-}
-
-.infobox2{
-  display: flex;
   justify-content: space-between;
 }
 
-.header{
+.info_left, .info_right{
   width: 35%;
 }
 
@@ -148,7 +136,6 @@ li{
   color: white;
   margin-top: 3rem;
   padding: 1rem 0 1rem 2rem;
-
 
 }
 
