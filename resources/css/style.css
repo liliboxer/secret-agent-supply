@@ -182,6 +182,25 @@ p{
 
 @media only screen and (max-width: 470px){
 
+  h1.text {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 2rem;
+  }
+
+  h2.text{
+    font-size: 0.77rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-left: 2rem;
+
+  }
+
+  .block{
+    width: 100%;
+  }
+
+
   p{
     justify-content: center;
   }
